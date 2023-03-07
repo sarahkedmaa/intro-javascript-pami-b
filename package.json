@@ -1,0 +1,26 @@
+{
+  "name": "intro-javascript-pami-b",
+  "version": "1.0.0",
+  "description": "revisão javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahkedmaa/intro-javascript-pami-b.git"
+  },
+  "keywords": [
+    "Revisão",
+    "Java-script"
+  ],
+  "author": "Sarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahkedmaa/intro-javascript-pami-b/issues"
+  },
+  "homepage": "https://github.com/sarahkedmaa/intro-javascript-pami-b#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
