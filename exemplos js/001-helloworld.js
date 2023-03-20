@@ -4,6 +4,7 @@ console.log('Estou desenvolvendo em java-script');
 de uma linha 
 Três formas de declarar uma variavel em javascript (var, let e const)*/
 
+let nome = 'Sarah';
 let idade = 18;
 let trabalho = true;
 let altura_pessoa = 1.48; // se colocar aspas vira string
@@ -29,3 +30,9 @@ if (ehArray === true) {
 } else {
     console.log('Não é um array');
 }
+
+
+//mostrar valor de objeto
+console.log('Objeto; ');
+console.log(endereco.bairro);
+console.log(endereco.logradouro + ' ' + endereco.nmlog + ' nº' + endereco.num + ' -' + endereco.bairro);
